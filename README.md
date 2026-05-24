@@ -1,2 +1,1 @@
-# JUpiter_ml
-ML_files
+# JUpiter ML Project
